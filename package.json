@@ -1,0 +1,19 @@
+{
+  "name": "river-lay",
+  "version": "1.0.0",
+  "description": "front-end component library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yiRiver/river-lay.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yiRiver/river-lay/issues"
+  },
+  "homepage": "https://github.com/yiRiver/river-lay#readme"
+}
